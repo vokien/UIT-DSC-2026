@@ -1,0 +1,13 @@
+transformers>=4.40.0
+accelerate>=0.28.0
+sentence-transformers>=2.7.0
+faiss-gpu>=1.7.2
+rank-bm25>=0.2.2
+underthesea>=6.8.0
+numpy
+pandas
+tqdm
+pydantic
+python-dotenv
+peft
+bitsandbytes
